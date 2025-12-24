@@ -1,0 +1,19 @@
+{
+  "name": "ui-portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio Web Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParthivVerma/ui-portfolio.git"
+  },
+  "author": "Parthiv Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParthivVerma/ui-portfolio/issues"
+  },
+  "homepage": "https://github.com/ParthivVerma/ui-portfolio#readme"
+}
